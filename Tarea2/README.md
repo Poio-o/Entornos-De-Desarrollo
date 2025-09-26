@@ -13,7 +13,7 @@
         - *Cogerlo*
     - **SI NO**
         - *Comprarlo*
-    - **FIN **SI**
+    - **FIN SI**
 5. Verificar si hay sal
     - **SI** (hay sal)
         - *Cogerla*
