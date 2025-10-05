@@ -192,10 +192,44 @@
 ## Responde:
 
 ### ¿Qué lenguajes tienen entornos de desarrollo más variados o flexibles?
+**JavaScript**
+
+- Entornos: 
+  - Visual Studio Code 
+  - WebStorm
+  - Sublime
+  - Atom
+  - StackBlitz
+  - CodeSandbox
+
+- Se usa tanto en frontend (React, Vue, Angular) como backend (Node.js), móviles (React Native), escritorio (Electron) e incluso IoT.
+
+- Es uno de los más versátiles en cuanto a entornos y frameworks.
+
+**Python**
+
+- Entornos:
+  - PyCharm
+  - VS Code
+  - Jupyter Notebook
+  - Spyder
+  - Thonny
+  - Replit
+
+- Ideal para ciencia de datos, backend, automatización, IA, educación y scripting.
+
+- Es famoso por su flexibilidad y facilidad de integración con otros lenguajes.
 
 ### ¿Cuál parece tener más aplicaciones en empresas globales?
+**Java:** muy extendido en sistemas backend de gran escala (bancos, seguros, comercio electrónico).
+
+**Python:** análisis de datos, IA, automatización, desarrollo interno.
 
 ### ¿Crees que la popularidad en TIOBE se relaciona con el uso en grandes compañías?
 
-### ¿Qué lenguaje te gustaría explorar más y por qué?
+En lenguajes como **Java**, **C**, **Python** o **C++**, que siempre aparecen arriba en el índice TIOBE, es **cierto**.
+Pero hay otros lenguajes que a pesar de aparecer como muy populares es por su uso en diferentes startups o desarrolladores individuales, aunque no se usen demasiado en el ámbito empresarial.
+Esto se debe a que TIOBE mide la popularidad por **búsquedas**, **cursos** y **tutoriales**, **no por número de empresas que utilicen los lenguajes**. Así que **aunque pueda ser popular no tiene por qué ser dominante** en la industria,
 
+### ¿Qué lenguaje te gustaría explorar más y por qué?
+Me gustaría aprender *C#* porque se usa en el **desarrollo de videojuegos** (con Unity) y además es **versátil** y tiene muchos otros usos.
