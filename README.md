@@ -29,3 +29,9 @@ Copilot es el **asistente de inteligencia artificial** de Microsoft que ayuda a 
 **4. Automatización de tareas**: Puede automatizar tareas repetitivas, optimizando el flujo de trabajo y mejorando la toma de decisiones. 
 
 ![imagen to wapa](img/cabbit.webp)
+
+[Tarea 1](Tarea1/README.md)
+
+[Tarea 2](Tarea2/README.md)
+
+[Tarea 3](Tarea3/README.md)
