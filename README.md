@@ -18,7 +18,7 @@ Copilot es el **asistente de inteligencia artificial** de Microsoft que ayuda a 
  - Entretener
  - Inspirar al usuario.
 
-**2. Herramienta de creatividad**: Ayuda a crear contenido, desde el resumen de presentaciones hasta la generación de imágenes.
+**2. Herramienta de creatividad**: Ayuda a crear contenido, desde el resumen de presentaciones, hasta la generación de imágenes.
 
 **3. Productividad en el trabajo**: En el ámbito laboral, Microsoft 365 Copilot asiste con tareas de:
  - Lluvia de ideas
